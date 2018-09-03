@@ -1,1 +1,1 @@
-# www.coding-rocks.com
+# coding-rocks.com
